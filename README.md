@@ -17,3 +17,8 @@ This is the first example of [my code](https://gist.github.com/JinMagician/24246
 ### Colab
 
 This is my first [notebook](https://github.com/JinMagician/techical-discussion/blob/main/README.md)
+
+
+### Image
+
+This is an [image](https://github.com/JinMagician/techical-discussion/issues/1#issue-927242133)
