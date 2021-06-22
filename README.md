@@ -21,4 +21,4 @@ This is my first [notebook](https://github.com/JinMagician/techical-discussion/b
 
 ### Image
 
-This is an [image](https://user-images.githubusercontent.com/46963276/122933931-fa09c000-d366-11eb-9b2f-479529e8a88a.PNG)
+This is an ![image](https://user-images.githubusercontent.com/46963276/122933931-fa09c000-d366-11eb-9b2f-479529e8a88a.PNG)
